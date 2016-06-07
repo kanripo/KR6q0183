@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 20, No. B095
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0183_J_001-0385a> 
 #+PROPERTY: JUAN 1
 
@@ -1043,7 +1043,7 @@
 *** 佛母摩耶大願智幻解脫門¶
 
 #+BEGIN_VERSE
-「　無生無不生幻法元非法腹同世界寬身似浮雲杳¶調御天人師收來做一匝擬將普眼觀赤翳生眉睫」
+「　無生無不生幻法元非法腹同世界寬身似浮雲沓¶調御天人師收來做一匝擬將普眼觀赤翳生眉睫」
 #+END_VERSE
 ¶
 
